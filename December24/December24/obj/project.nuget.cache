@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsHM792KjbVrjF21raJeYPlNZMaizE/CwW3CKvN4pHP3USWzF83T/s47hSbU13ffEQrUg38qs58W01fRR//aQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elima\\DailyCodingProblem\\December24\\December24\\December24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elima\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

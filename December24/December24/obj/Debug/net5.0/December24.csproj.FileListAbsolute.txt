@@ -1,0 +1,15 @@
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.exe
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.deps.json
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.runtimeconfig.json
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.runtimeconfig.dev.json
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.dll
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\ref\December24.dll
+C:\Users\elima\DailyCodingProblem\December24\December24\bin\Debug\net5.0\December24.pdb
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.AssemblyInfoInputs.cache
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.AssemblyInfo.cs
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.csproj.CoreCompileInputs.cache
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.dll
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\ref\December24.dll
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.pdb
+C:\Users\elima\DailyCodingProblem\December24\December24\obj\Debug\net5.0\December24.genruntimeconfig.cache
